@@ -1,10 +1,9 @@
 Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
 
 
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+
+New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has requested for developing a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. This project focuses on predicting taxi fares before a ride using **Multiple Linear Regression**. The goal is to analyze various trip-related features to estimate the fare cost. 
 
 Insights and recommendations are provided on the following key areas:
 
@@ -13,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 - **Category 3:** 
 - **Category 4:** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The Python queries used to inspect and clean the data for this analysis can be found here [link].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
