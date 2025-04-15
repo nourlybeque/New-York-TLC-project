@@ -21,11 +21,11 @@ Tableau dashboard is here
 
 # Data Structure & Initial Checks
 
-### This project uses a dataset called 2017_Yellow_Taxi_Trip_Data. It contains data gathered by the New York City Taxi & Limousine Commission. 
+This project uses a dataset called 2017_Yellow_Taxi_Trip_Data. It contains data gathered by the New York City Taxi & Limousine Commission. 
 
-### The dataset contains:
-### 22,699 rows - each row represents a different trip
-### 18 columns
+The dataset contains:
+22,699 rows - each row represents a different trip
+18 columns
 
   | Column Name            | Description                 |
   |------------------------|---------------------------- |
