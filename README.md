@@ -2,20 +2,13 @@
 
 New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has requested for developing a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day. This project focuses on predicting taxi fares before a ride using **Multiple Linear Regression**. The goal is to analyze various trip-related features to estimate the fare cost. 
 
-Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+The Python EDA used to inspect and clean the data for this analysis can be found [here.](https://github.com/nourlybeque/New-York-TLC-project/blob/20bc8e16b824efa1e68e0e1b8fec7e558faf3128/New%20York%20TLC%20project/notebooks_TLC/New_York_TLC_1_EDA.ipynb)
 
-The Python EDA used to inspect and clean the data for this analysis can be found here [link].
+The Python A/B testing regarding various business questions can be found [here.](https://github.com/nourlybeque/New-York-TLC-project/blob/20bc8e16b824efa1e68e0e1b8fec7e558faf3128/New%20York%20TLC%20project/notebooks_TLC/New_York_TLC_2_AB_testing.ipynb)
 
-The Python A/B testing  regarding various business questions can be found here [link].
+The Python with multiple linear regression model used to report and explore sales trends can be found [here.](https://github.com/nourlybeque/New-York-TLC-project/blob/20bc8e16b824efa1e68e0e1b8fec7e558faf3128/New%20York%20TLC%20project/notebooks_TLC/New_York_TLC_3_MultipleLinearRegression.ipynb)
 
-The Python with multiple linear regression model used to report and explore sales trends can be found here [link].
-
-Tableau dashboard is here
 
 
 
