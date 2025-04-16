@@ -59,14 +59,3 @@ Based on parameters of the newly created multiple linear regression model states
 
 ![Actual&Predicted](https://github.com/nourlybeque/New-York-TLC-project/blob/516a672709af9145646477dd8c177ea322c0f527/New%20York%20TLC%20project/visuals_TLC/final_scatterplot_TLC.png)
 
-
-
-### Correlations within the multiple linear regression model:
-
-Even though, a target variable is "fare_amount", the other independent variables "mean_duration" and "mean_distance" are both highly correlated with the target variable of fare_amount They're also both correlated with each other, with a Pearson correlation of 0.87.
-
-mean_duration - shows the average number of minutes that each taxi ride took.
-
-mean_distance - that captures the average of trip distances for each trip group that shares pickup and dropoff points.
-
-![correlation heatmap](https://github.com/nourlybeque/New-York-TLC-project/blob/59bd5151af37e190d3d7a11b986dab479f95bad1/New%20York%20TLC%20project/visuals_TLC/correlation_heatmap_TLC.png)
