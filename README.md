@@ -70,7 +70,7 @@ Based on parameters of the newly created multiple linear regression model states
 
 ### Correlations within the multiple linear regression model:
 
-Even though, a target variable is "fare_amount", "mean_duration" and "mean_distance" are both highly correlated with the target variable of fare_amount They're also both correlated with each other, with a Pearson correlation of 0.87.
+Even though, a target variable is "fare_amount", the other independent variables "mean_duration" and "mean_distance" are both highly correlated with the target variable of fare_amount They're also both correlated with each other, with a Pearson correlation of 0.87.
 
 ![correlation heatmap](https://github.com/nourlybeque/New-York-TLC-project/blob/59bd5151af37e190d3d7a11b986dab479f95bad1/New%20York%20TLC%20project/visuals_TLC/correlation_heatmap_TLC.png)
 
