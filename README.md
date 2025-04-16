@@ -67,25 +67,14 @@ Based on parameters of the newly created multiple linear regression model states
 ![Actual&Predicted](https://github.com/nourlybeque/New-York-TLC-project/blob/516a672709af9145646477dd8c177ea322c0f527/New%20York%20TLC%20project/visuals_TLC/final_scatterplot_TLC.png)
 
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+### Correlations within the multiple linear regression model:
+
+Even though, a target variable is "fare_amount", "mean_duration" and "mean_distance" are both highly correlated with the target variable of fare_amount They're also both correlated with each other, with a Pearson correlation of 0.87.
+
+![correlation heatmap](https://github.com/nourlybeque/New-York-TLC-project/blob/59bd5151af37e190d3d7a11b986dab479f95bad1/New%20York%20TLC%20project/visuals_TLC/correlation_heatmap_TLC.png)
 
 
-
-
-# Insights Deep Dive
-### Category 1:
-
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-
-[Visualization specific to category 1]
 
 
 ### Category 2:
