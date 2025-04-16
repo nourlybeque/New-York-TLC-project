@@ -54,6 +54,19 @@ The dataset contains:
 
 ### Overview of Findings
 
+Based on parameters of the newly created multiple linear regression model states that for every 3.57 miles traveled, the fare increased by a mean of $7.13. Or, reduced: for every 1 mile traveled, the fare increased by a mean of $2.00.
+
+- Produced output (Predicted vs. Actual fares):
+  
+|           | Actual Fare | Predicted Fare | Residual  |
+|-----------|-------------|----------------|-----------|
+| 5818      | $14.0       | $12.356503     | 1.643497  |
+| 18134     | $28.0       | $16.314595     | 11.685405 |
+| 4655      | $5.5        | $6.726789      | -1.226789 |
+
+![Actual&Predicted](https://github.com/nourlybeque/New-York-TLC-project/blob/516a672709af9145646477dd8c177ea322c0f527/New%20York%20TLC%20project/visuals_TLC/final_scatterplot_TLC.png)
+
+
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
