@@ -1,6 +1,6 @@
 ## Data Dictionary (New York TLC data)
 
-### This project uses a dataset called 2017_Yellow_Taxi_Trip_Data. It contains data gathered by the New York City Taxi & Limousine Commission. 
+### This project uses a dataset called 2017_Yellow_Taxi_Trip_Data. The data is provided by Google Advanced Data Analytics Professional Certificate Program, and the data shared in this project has been created for pedagogical purposes.
 
 ### The dataset contains:
 ### 22,699 rows - each row represents a different trip
